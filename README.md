@@ -2,7 +2,7 @@
 
 1. The repository contains all the tasks that I did during the internship.
 2. Three projects were given to me for the tasks:
-# 3. Project-1: Heart Disease Analysis
+# Project-1: Heart Disease Analysis
    
 # Data Preprocessing:
 
@@ -36,7 +36,7 @@ Defining a function to use the trained model and scaler for making predictions b
 
 The notebook includes visualizations and evaluation metrics to assess the model's performance.
 
-# 4. Project-2: Amazon Sales Analysis
+# Project-2: Amazon Sales Analysis
 
 # Data Preprocessing:
 
@@ -70,7 +70,7 @@ Saving the trained model and any necessary preprocessing tools for future use.
 
 The notebook includes detailed steps and code for each part of the process, along with output and visualizations to assess the model's effectiveness.
    
-# 5. Project-3: Crop Production Analysis
+# Project-3: Crop Production Analysis
 
 # Data Preprocessing:
 
@@ -98,4 +98,11 @@ Evaluating the model's performance on the test set and comparing predictions wit
 
 Visualizing the data distribution and model performance using plots.
 
-The notebook includes detailed steps and code for each part of the process, along with outputs and visualizations to assess the model's effectiveness. ​
+# Tech Stack
+1. Power BI
+2. Machine Learning
+3. Data Science
+4. Data Analytics
+5. Jupyter Notebook
+6. Google Colab
+
