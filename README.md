@@ -6,93 +6,93 @@
    
 # Data Preprocessing:
 
-Loading and exploring the dataset.
+1. Loading and exploring the dataset.
 
-Handling missing values.
+2. Handling missing values.
 
-Encoding categorical variables.
+3. Encoding categorical variables.
 
 # Feature Engineering:
 
-Normalizing features using a scaler.
+1. Normalizing features using a scaler.
 
 # Model Training:
 
-Building a machine learning model (likely a neural network, given the use of Keras).
+1. Building a machine learning model (likely a neural network, given the use of Keras).
 
-Training the model on the prepared dataset.
+2. Training the model on the prepared dataset.
 
-Evaluating the model performance using confusion matrices and accuracy scores.
+3. Evaluating the model performance using confusion matrices and accuracy scores.
 
 # Model Saving:
 
-Saving the trained model as an HDF5 file.
+1. Saving the trained model as an HDF5 file.
 
-Saving the scaler object using pickle.
+2. Saving the scaler object using pickle.
 
 # Model Deployment:
 
-Defining a function to use the trained model and scaler for making predictions based on new input data.
+1. Defining a function to use the trained model and scaler for making predictions based on new input data.
 
-The notebook includes visualizations and evaluation metrics to assess the model's performance.
+2. The notebook includes visualizations and evaluation metrics to assess the model's performance.
 
 # Project-2: Amazon Sales Analysis
 
 # Data Preprocessing:
 
-Loading and exploring the dataset.
+1. Loading and exploring the dataset.
 
-Handling missing values and data cleaning.
+2. Handling missing values and data cleaning.
 
-Feature selection and engineering.
+3. Feature selection and engineering.
 
 # Model Training:
 
-Building and training regression models to predict crop production.
+1. Building and training regression models to predict crop production.
 
-Splitting the data into training and testing sets.
+2. Splitting the data into training and testing sets.
 
-Training various models and selecting the best-performing one.
+3. Training various models and selecting the best-performing one.
 
 # Model Evaluation:
 
-Calculating performance metrics such as RMSE (Root Mean Squared Error), MSE (Mean Squared Error), MAE (Mean Absolute Error), and R2 Score.
+1. Calculating performance metrics such as RMSE (Root Mean Squared Error), MSE (Mean Squared Error), MAE (Mean Absolute Error), and R2 Score.
 
-Evaluating the model's performance on the test set and comparing predictions with actual values.
+2. Evaluating the model's performance on the test set and comparing predictions with actual values.
 
 # Visualizations:
 
-Visualizing the data distribution and model performance using plots.
+1. Visualizing the data distribution and model performance using plots.
 
 # Saving the Model:
 
-Saving the trained model and any necessary preprocessing tools for future use.
+1. Saving the trained model and any necessary preprocessing tools for future use.
 
-The notebook includes detailed steps and code for each part of the process, along with output and visualizations to assess the model's effectiveness.
+2. The notebook includes detailed steps and code for each part of the process, along with output and visualizations to assess the model's effectiveness.
    
 # Project-3: Crop Production Analysis
 
 # Data Preprocessing:
 
-Loading and exploring the dataset.
+1. Loading and exploring the dataset.
 
-Handling missing values and cleaning the data.
+2. Handling missing values and cleaning the data.
 
-Feature selection and engineering.
+3. Feature selection and engineering.
 
 # Model Training:
 
-Building and training regression models to predict sales.
+1. Building and training regression models to predict sales.
 
-Splitting the data into training and testing sets.
+2. Splitting the data into training and testing sets.
 
-Training various models and selecting the best-performing one.
+3. Training various models and selecting the best-performing one.
 
 # Model Evaluation:
 
-Calculating performance metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R2 Score.
+1. Calculating performance metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R2 Score.
 
-Evaluating the model's performance on the test set and comparing predictions with actual values.
+2. Evaluating the model's performance on the test set and comparing predictions with actual values.
 
 # Visualizations:
 
