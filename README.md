@@ -35,6 +35,10 @@
 1. Defining a function to use the trained model and scaler for making predictions based on new input data.
 
 2. The notebook includes visualizations and evaluation metrics to assess the model's performance.
+   
+
+![Dash_1](https://github.com/user-attachments/assets/aa1f304b-abe3-4bfa-a014-f49d55f9e2fc)
+
 
 # Project-2: Amazon Sales Analysis
 
@@ -69,6 +73,10 @@
 1. Saving the trained model and any necessary preprocessing tools for future use.
 
 2. The notebook includes detailed steps and code for each part of the process, along with output and visualizations to assess the model's effectiveness.
+
+
+![Dash_2](https://github.com/user-attachments/assets/ce911f5e-6051-436a-a6ac-8e920aa83416)
+
    
 # Project-3: Crop Production Analysis
 
@@ -97,6 +105,10 @@
 # Visualizations:
 
 Visualizing the data distribution and model performance using plots.
+
+
+![Dash_3](https://github.com/user-attachments/assets/235f68f8-a610-48fa-ac44-d92a810499be)
+
 
 # Tech Stack
 1. Power BI
