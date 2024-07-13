@@ -36,6 +36,7 @@
 
 2. The notebook includes visualizations and evaluation metrics to assess the model's performance.
    
+# Heart Disease Analysis Dashboard
 
 ![Dash_1](https://github.com/user-attachments/assets/aa1f304b-abe3-4bfa-a014-f49d55f9e2fc)
 
@@ -74,6 +75,7 @@
 
 2. The notebook includes detailed steps and code for each part of the process, along with output and visualizations to assess the model's effectiveness.
 
+# Amazon Sales Analysis Dashboard
 
 ![Dash_2](https://github.com/user-attachments/assets/ce911f5e-6051-436a-a6ac-8e920aa83416)
 
@@ -106,6 +108,7 @@
 
 Visualizing the data distribution and model performance using plots.
 
+# Crop Production Analysis Dashboard
 
 ![Dash_3](https://github.com/user-attachments/assets/235f68f8-a610-48fa-ac44-d92a810499be)
 
